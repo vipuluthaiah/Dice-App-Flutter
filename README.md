@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 ![img1](https://github.com/vipuluthaiah/Dice-App-Flutter/blob/master/images/Screenshot_1584445414.png )
 
-img src="https://github.com/vipuluthaiah/Dice-App-Flutter/blob/master/images/Screenshot_1584445412.png" height="24" width="48">
+![test](https://github.com/vipuluthaiah/Dice-App-Flutter/blob/master/images/Screenshot_1584445412.png | width=48)
 
 This project is a starting point for a Flutter application.
 
