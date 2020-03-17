@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![img1](https://github.com/vipuluthaiah/Dice-App-Flutter/blob/master/images/Screenshot_1584445414.png =24x48)
+![img1](https://github.com/vipuluthaiah/Dice-App-Flutter/blob/master/images/Screenshot_1584445414.png )
 
 This project is a starting point for a Flutter application.
 
